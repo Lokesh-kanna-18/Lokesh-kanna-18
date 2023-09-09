@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" align="center" style="width: 80%" />
 </div>  
 
-- 🔭 I’m currently working on [Movie Recommendation System]  
+- ⌛ I’m currently working on [Movie Recommendation System]  
   
 
 - 🌱 I’m currently learning Automation Software Testing  
@@ -19,7 +19,10 @@
   
 
 - ⚡ Fun fact: I Play Chess  
-  
+
+
+- 📧 How to reach me **lokesh.07email@gmail.com** 
+
 <br/>  
 
 
@@ -45,24 +48,25 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30" /></a>  
 </div>  
 
+
 <br/>  
-
-
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Lokesh-kanna-18" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<a href="https://instagram.com/lokeesshhhh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
 <a href="https://linkedin.com/in/lokeshkanna02" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/lokeesshhhh" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<a href="https://twitter.com/__LoKesH__07" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
+ 
+</div>  
+  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=sayantann11&&style=flat-square" align="center" />
@@ -75,4 +79,3 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="center" style="width: 100%" />
 </div>  
-  
