@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hey! Im Lokesh🦉 I work with data and I Love Software Testing</div>  
+### <div align="center">Hey! 🤖 Lokesh here, your data explorer and software sorcerer. Join me in the world of bytes and bugs, where we turn data into insights and glitches into gold</div>  
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" align="center" style="width: 80%" />
